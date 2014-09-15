@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Graz Lab</title>
-    <link href='http://fonts.googleapis.com/css?family=Lato:300|Lato:900' rel='stylesheet' type='text/css'/>
+    <link href='http://fonts.googleapis.com/css?family=Lato:300|Lato:900' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="../css/main.css" />
     <link rel="stylesheet" href="../css/foundation.css" />
     <script src="../js/vendor/modernizr.js"></script>
@@ -19,7 +19,7 @@
           </section>
 
           <section class="middle tab-bar-section">
-            <h1 id= "graz" class="title">Graz Lab</h1>
+            <h1 id= "graz"class="title">Graz Lab</h1>
           </section>
         </nav>
 
@@ -34,13 +34,13 @@
           <div class="row">
 
             <div class="large-12 columns">
-              <div id="animated_2" class="panel radius">
+              <div id="animated_2"class="panel radius">
                 <div class="row">
 
-                  <div id="profile" class="small-8 medium-3 large-2 columns">
+                  <div id="profile"class="small-8 medium-3 large-2 columns">
 
                     <a class="th radius">
-                      <img src="../img/me.jpg" alt="Me">
+                      <img src="../img/me.jpg">
                     </a>
 
                   </div>
@@ -62,8 +62,8 @@
           <div class="row">
             <div class="large-6 large-centered columns ">
                 <div id="animated_1" class= "panel radius">
-                  <a href="https://www.facebook.com/GrazianoGrespan"/><img src="../img/fb.png" alt="FB"><span id="contacts" class="label">&nbsp;&nbsp;&nbsp;Graziano Grespan</span><br>
-                  <a href="mailto:grazianogrespan@gmail.com?subject=Graz-Lab questions"/><br><img src="../img/mail.png" alt="Mail"><span id="contacts" class="label">&nbsp;&nbsp;&nbsp;grazianogrespan@gmail.com</span><br>
+                  <a href="https://www.facebook.com/GrazianoGrespan"><img src="../img/fb.png"><span id="contacts"class="label">&nbsp&nbsp&nbspGraziano Grespan</span><br>
+                  <a href="mailto:grazianogrespan@gmail.com?subject=Graz-Lab questions"><br><img src="../img/mail.png"><span id="contacts"class="label">&nbsp&nbsp&nbspgrazianogrespan@gmail.com</span><br>
                 </div>
             </div>
           </div>
@@ -83,4 +83,3 @@
 
   </body>
 </html>
-
