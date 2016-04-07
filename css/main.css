@@ -11,6 +11,10 @@ u,b {
   font-size:150% !important;
 }
 
+a img {
+  width:200px;
+}
+
 #google {
  background-color: transparent;
  border-color:transparent;
