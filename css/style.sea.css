@@ -692,10 +692,21 @@ MAIN PORTFOLIO SLIDER
 =====================
 
 */
+
 #main-slider {
   margin-top:70px;
   opacity: 0;
 }
+
+@media(max-width: 991px) {
+  #main-slider {
+    margin-top:10px;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0;
+  }
+}
+
 #main-slider ul li div {
   width: 100%;
 }
