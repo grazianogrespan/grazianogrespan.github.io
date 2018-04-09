@@ -1,0 +1,50 @@
+/* your styles go here */
+.sidebar-heading{
+  margin-bottom: 5px;
+}
+
+.sidebar-subheading{
+  text-decoration: underline;
+}
+
+.sidebar-list {
+  list-style-type: none;
+  padding-left: 20px;
+}
+
+.sidebar-list p {
+  margin-bottom: 10px;
+}
+
+.sidebar-list p:before {
+  content: '‣';
+  margin: 0 10px 0 -15px;
+  color: #999999;
+}
+
+.project_subtitle{
+  font-style: italic;
+}
+
+#second-slider {
+  margin-top: 48px;
+  margin-bottom: 48px;
+  opacity: 1;
+}
+
+#second-slider ul li div {
+  width: 100%;
+}
+
+#second-slider .owl-wrapper-outer {
+  box-shadow: 0 1px 5px #ccc;
+}
+
+#second-slider .owl-controls .owl-buttons {
+  display: none;
+}
+
+#second-slider .owl-controls .owl-page.active span,
+#second-slider .owl-controls.clickable .owl-page:hover span {
+  background: #2065a1;
+}
