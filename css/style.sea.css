@@ -324,6 +324,7 @@ SIDEBAR + RIGHT COLUMN
 */
 #sidebar {
   padding-top: 40px;
+  padding-left: 25px;
 }
 @media screen and (min-width: 992px) {
   .sidebar-content {
