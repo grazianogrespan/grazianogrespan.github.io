@@ -477,21 +477,21 @@ OFF-CANVAS SIDEBAR BEHAVIOUR
     /* 6 columns */
   }
   .row-offcanvas-left .sidebar-offcanvas {
-    left: -48%;
+    left: -52%;
     /* 6 columns */
   }
   .row-offcanvas-right.active {
-    right: 50%;
+    right: 55%;
     /* 6 columns */
   }
   .row-offcanvas-left.active {
-    left: 50%;
+    left: 55%;
     /* 6 columns */
   }
   .sidebar-offcanvas {
     position: absolute;
     top: 0;
-    width: 50%;
+    width: 55%;
     /* 6 columns */
   }
 }
@@ -700,7 +700,7 @@ MAIN PORTFOLIO SLIDER
 
 @media(max-width: 991px) {
   #main-slider {
-    margin-top:10px;
+    margin-top:20px;
     margin-left: auto;
     margin-right: auto;
     opacity: 0;
